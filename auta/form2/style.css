@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=');
+*m{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #17f;
+}
+section{
+   background-color: #fff;
+   padding: 10px;
+   display: flex;
+   flex-direction: column;
+   width: 400px;
+}
+section h1{
+    text-align: center;
+   
+}
+form{
+    display: flex;
+    flex-direction: column;
+}
+form input{
+    margin: 5px 0;
+    padding: 5px 5px;
+    outline: 0;
+    border: 1px solid #000;
+}
+.erreur{
+    color: red;
+    margin: 10px 0;
+    text-align: center;
+}
+.message{
+    color: #fff;
+    font-size: 16px;
+}

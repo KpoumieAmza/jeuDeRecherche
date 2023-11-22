@@ -1,0 +1,51 @@
+form{
+    border: 5px solid red;
+    padding: 100px;
+    width: 255px;
+    margin: auto;
+    height: 400px;
+}
+h1{
+    text-align: center;
+}
+#area{
+    height: 50px;
+    width: 103%;
+    margin: 0;
+    padding: 0;
+    border: 1px solid;
+
+}
+.submit-button{
+    color: white;
+    background-color: rgb(43, 194, 230);
+    border: white;
+    height: 35px;
+    width: 20%;
+    border-radius: 6px;
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    cursor: pointer;
+}
+.reset-button{
+    color: white;
+    background-color: rgb(198, 20, 230);
+    border: white;
+    height: 33px;
+    width: 20%;
+    border-radius: 6px;
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    cursor: pointer;
+}
+#photo{
+    border: 2px solid;
+}
+input{
+    height: 30px;
+    width: 200px;
+
+}
+#btn{
+    margin: 1px 10px;
+}
